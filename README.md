@@ -1,6 +1,7 @@
-# A Z T E C  an e-Commerce Application built with ReactJs
+# A Z T E C  
+### An e-Commerce Application built with ReactJs
 
-A simple web portal prototype that is responsive and user friendly using React.
+A simple web portal prototype that is responsive and user friendly , made with React.
 
 ## Website  Demo -
 [A Z T E C](https://aztec.netlify.app/)
