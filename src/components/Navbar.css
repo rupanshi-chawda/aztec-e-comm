@@ -1,0 +1,14 @@
+.nav{
+    font-family: 'Roboto' ;
+    background-color: black;
+}
+
+
+.nicon{
+    padding-top: 5px;
+}
+
+.trns:hover{
+    border-bottom: 4px solid #fff !important;
+    transition: all 0.2s ease-out !important;
+}
