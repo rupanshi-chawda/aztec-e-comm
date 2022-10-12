@@ -50,7 +50,7 @@ class Cart extends Component{
             ):
 
              (
-                <p className="center"> You haven't added anything to the cart yet, check out some beautiful tribal designs at AZTEC. </p>
+                <p className="center"> Items not added!, check out some beautiful tribal designs at AZTEC. </p>
              )
              
        return(
@@ -60,7 +60,10 @@ class Cart extends Component{
                     <h5>Your Orders - </h5>
                     <ul className="collection">
                         {addedItems}
-                    </ul>
+                   </ul>
+                   <div>
+                       
+                   </div>
                 </div> 
                 <CartTotal />          
             </div>
